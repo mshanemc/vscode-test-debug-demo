@@ -1,4 +1,4 @@
-# Lightning Web Components
+# VSCode: Test and Debug
 
 This repo is part of a series of one-feature Salesforce platform demos.
 
